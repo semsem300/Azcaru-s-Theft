@@ -15,7 +15,7 @@ MonoBehaviour:
   currentHealth: 10
   maxHealth: 10
   deathtime: 1
-  speed: 6
+  speed: 2
   maxSpeed: 20
   attackRange: 0
   attackCoolTime: 1
@@ -26,7 +26,7 @@ MonoBehaviour:
   deathClip: {fileID: 0}
   attackClip: {fileID: 0}
   dodgeRollClip: {fileID: 0}
-  position: {x: 1.3314211, y: 0.30251354, z: 0}
+  position: {x: -0.11, y: 0, z: 0}
   isAlive: 1
   isDash: 0
   playerObj: {fileID: 0}
